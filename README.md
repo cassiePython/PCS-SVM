@@ -11,19 +11,13 @@ Note!!!
 This codes is related to the Paper - 
 Cluster Probability based Regularization Parameter Optimizing for Imbalanced SVM Classification
 
-All files and illustrations：
-SVM.py 
-            --------------------- the implementation of the PCS-SVM model
-Block_diagonal.py 
-            ---------- a 'class' to calculate the similarity matrix between data        
-hparams.py 
-            ----------------- the file to set the parameters of the PCS-SVM      
-tools.py 
-            ------------------- the auxiliary tools to calculate some values of the PCS-SVM       
-validate.py 
-            ---------------- to run the PCS-SVM and get the results       
-data 
-            ----------------------- the document includes some datasets  
+All files and illustrations：                                                                                       
+SVM.py --------------------- the implementation of the PCS-SVM model           
+Block_diagonal.py ---------- a 'class' to calculate the similarity matrix between data        
+hparams.py ----------------- the file to set the parameters of the PCS-SVM      
+tools.py ------------------- the auxiliary tools to calculate some values of the PCS-SVM       
+validate.py ---------------- to run the PCS-SVM and get the results       
+data ----------------------- the document includes some datasets  
             
 All the codes are written in Python and before you run the codes please 
 make sure that you have installed all the needed software and library bolow:
